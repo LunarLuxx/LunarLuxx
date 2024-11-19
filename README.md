@@ -2,7 +2,8 @@
 - 👀 I’m interested in all sorts of cool stuff! I love interacting with others and learning new stuff!
 - 🌱 I’m currently learning: Python, HTML, CSS, Javascript and React.
 - 💞️ I’m looking to collaborate on any projects that I can help in and learn more about!
-- ⚡ Fun fact: Idk im kinda boring tbh
+- ⚡ Fun fact: I reallyyyyy like sushi lol
+  
 
 <!---
 LunarLuxx/LunarLuxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
